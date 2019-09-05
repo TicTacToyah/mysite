@@ -7,7 +7,7 @@ html{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 400px 400px 400px 300px; 
     grid-gap: 20px;
-    background-color: black;
+    background-color: greenyellow;
     padding: 20px;
 }
 
